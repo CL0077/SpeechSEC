@@ -1,7 +1,3 @@
----
-title: "SpeechSEC: A Unified Multi-Task Framework for Non-Autoregressive Speech Synthesis, Editing, and Continuation"
-layout: default
----
 
 <div align="center">
   <h2>Introduction</h2>
