@@ -1,4 +1,6 @@
-# SpeechSEC<br>A Unified Multi-Task Framework for Non-Autoregressive Speech Synthesis, Editing, and Continuation
+<div align="center">
+  # SpeechSEC<br>A Unified Multi-Task Framework for Non-Autoregressive Speech Synthesis, Editing, and Continuation
+</div>
 
 <div align="center">
   <h2>Introduction</h2>
