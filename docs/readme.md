@@ -83,6 +83,7 @@ Here are some demos of our speech synthesis system. You can click the audio file
         Your browser does not support the audio element.
       </audio>
     </td>
+  </tr>
   <tr>
     <td>
       <audio controls>
@@ -124,6 +125,7 @@ Here are some demos of our speech synthesis system. You can click the audio file
     </td>
   </tr>
 </table>
+
 <br>
 
 ### SpeechSEC_SpeechContinuation
