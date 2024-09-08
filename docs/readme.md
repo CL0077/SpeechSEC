@@ -15,6 +15,7 @@ Recent advancements in non-autoregressive audio generation have garnered signifi
 Here are some demos of our speech synthesis system. You can click the audio files below to listen to examples
 
 ### SpeechSEC_SpeechSynthesis 
+
 <div align="center">
     <audio controls>
         <source src="https://github.com/CL0077/SpeechSEC/blob/gh-pages/docs/demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/1.wav" type="audio/wav">
@@ -41,3 +42,30 @@ Here are some demos of our speech synthesis system. You can click the audio file
 ### SpeechSEC_SpeechEditing
 
 ### SpeechSEC_SpeechContinuation
+
+<div align="center">
+    <!-- 第一行 2 个音频 -->
+    <audio controls>
+        <source src="https://raw.githubusercontent.com/your-username/your-repository/main/path-to-audio-file/audio1.wav" type="audio/wav">
+        Your browser does not support the audio element.
+    </audio>
+    <audio controls>
+        <source src="https://raw.githubusercontent.com/your-username/your-repository/main/path-to-audio-file/audio2.wav" type="audio/wav">
+        Your browser does not support the audio element.
+    </audio>
+</div>
+
+<br>
+
+<div align="center">
+    <!-- 第二行 2 个音频 -->
+    <audio controls>
+        <source src="https://github.com/CL0077/SpeechSEC/blob/gh-pages/docs/demo-main/demo-main/3_SpeechSEC_SpeechContinuation/1.wav" type="audio/wav">
+        Your browser does not support the audio element.
+    </audio>
+    <audio controls>
+        <source src="https://github.com/CL0077/SpeechSEC/blob/gh-pages/docs/demo-main/demo-main/3_SpeechSEC_SpeechContinuation/1_ContinueResult.wav" type="audio/wav">
+        Your browser does not support the audio element.
+    </audio>
+</div>
+
