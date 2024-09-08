@@ -2,7 +2,7 @@
 <div align="center">
   <h2>Introduction</h2>
 </div>
-  Recent advancements in non-autoregressive audio generation have garnered significant attention. However, traditional single-task speech synthesis methods focus primarily on mapping semantic tokens to acoustic tokens, overlooking the internal relationships within acoustic features. Addressing this gap, we introduce SpeechSEC, a unified multi-task framework designed for Speech Synthesis, Editing, and Continuation tasks by dynamically adjusting input conditions. SpeechSEC not only enhances speech synthesis performance in speech intelligibility, audio quality, and voice preservation by acquiring shared and diverse knowledge across different tasks, but also efficiently executes editing and continuation tasks with good performance via non-autoregressive techniques. Additionally, SpeechSEC exhibits a strong adaptability to current speech discretization methods, like Hubert, Descript-Audio-Codec, and SpeechTokenizer, which showcases the robustness of our approach. Audio samples are available.
+Recent advancements in non-autoregressive audio generation have garnered significant attention. However, traditional single-task speech synthesis methods focus primarily on mapping semantic tokens to acoustic tokens, overlooking the internal relationships within acoustic features. Addressing this gap, we introduce SpeechSEC, a unified multi-task framework designed for Speech Synthesis, Editing, and Continuation tasks by dynamically adjusting input conditions. SpeechSEC not only enhances speech synthesis performance in speech intelligibility, audio quality, and voice preservation by acquiring shared and diverse knowledge across different tasks, but also efficiently executes editing and continuation tasks with good performance via non-autoregressive techniques. Additionally, SpeechSEC exhibits a strong adaptability to current speech discretization methods, like Hubert, Descript-Audio-Codec, and SpeechTokenizer, which showcases the robustness of our approach. Audio samples are available.
 
 <br><br>
 
@@ -93,7 +93,7 @@ Here are some demos of our speech synthesis system. You can click the audio file
     </td>
     <td>
       <audio controls>
-        <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/2_SpeechSEC_SpeechEditing/2_Edit_Add.wav" type="audio/wav">
+        <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/2_SpeechSEC_SpeechEditing/2_edit_add_a_funny_and_impressive.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
     </td>
