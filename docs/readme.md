@@ -10,8 +10,34 @@ Recent advancements in non-autoregressive audio generation have garnered signifi
 - We improve speech synthesis performance through multi-task joint training in aspects including speech intelligibility, voice preservation, audio quality with fast speed utilizing non-autoregressive methods.
 - We propose a multi-task audio processing framework that can efficiently accomplish high-quality speech synthesis, speech editing and speech continuation tasks in a non-autoregressive manner through a single unified model, bringing innovation to the field of audio processing.
 - We verify the adaptability of different discretion methods of speech processing and demonstrated that the multi-task joint training method we proposed is effective for different extractors of semantic tokens and acoustic tokens which showcases the wide applicability and robustness of our method.
-## 语音合成的demo
 
-## 语音编辑的demo
+## Demos
+Here are some demos of our speech synthesis system. You can click the audio files below to listen to examples
 
-## 语音延续的demo
+### SpeechSEC_SpeechSynthesis 
+<div align="center">
+    <audio controls>
+        <source src="https://example.com/audio1.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    <audio controls>
+        <source src="https://example.com/audio2.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    <audio controls>
+        <source src="https://example.com/audio3.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    <audio controls>
+        <source src="https://example.com/audio4.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    <audio controls>
+        <source src="https://example.com/audio5.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+</div>
+
+### SpeechSEC_SpeechEditing
+
+### SpeechSEC_SpeechContinuation
