@@ -7,7 +7,9 @@ Recent advancements in non-autoregressive audio generation have garnered signifi
 ![示例图片](./images/0311_06.png)
 
 ## 创新点描述
-
+- We improve speech synthesis performance through multi-task joint training in aspects including speech intelligibility, voice preservation, audio quality with fast speed utilizing non-autoregressive methods.
+- We propose a multi-task audio processing framework that can efficiently accomplish high-quality speech synthesis, speech editing and speech continuation tasks in a non-autoregressive manner through a single unified model, bringing innovation to the field of audio processing.
+- We verify the adaptability of different discretion methods of speech processing and demonstrated that the multi-task joint training method we proposed is effective for different extractors of semantic tokens and acoustic tokens which showcases the wide applicability and robustness of our method.
 ## 语音合成的demo
 
 ## 语音编辑的demo
