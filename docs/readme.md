@@ -17,23 +17,23 @@ Here are some demos of our speech synthesis system. You can click the audio file
 ### SpeechSEC_SpeechSynthesis 
 <div align="center">
     <audio controls>
-        <source src="https://example.com/audio1.mp3" type="audio/mpeg">
+        <source src="https://github.com/CL0077/SpeechSEC/blob/gh-pages/docs/demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/1.wav" type="audio/wav">
         Your browser does not support the audio element.
     </audio>
     <audio controls>
-        <source src="https://example.com/audio2.mp3" type="audio/mpeg">
+        <source src="https://github.com/CL0077/SpeechSEC/blob/gh-pages/docs/demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/2.wav" type="audio/wav">
         Your browser does not support the audio element.
     </audio>
     <audio controls>
-        <source src="https://example.com/audio3.mp3" type="audio/mpeg">
+        <source src="https://github.com/CL0077/SpeechSEC/blob/gh-pages/docs/demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/3.wav" type="audio/wav">
         Your browser does not support the audio element.
     </audio>
     <audio controls>
-        <source src="https://example.com/audio4.mp3" type="audio/mpeg">
+        <source src="https://github.com/CL0077/SpeechSEC/blob/gh-pages/docs/demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/4.wav" type="audio/wav">
         Your browser does not support the audio element.
     </audio>
     <audio controls>
-        <source src="https://example.com/audio5.mp3" type="audio/mpeg">
+        <source src="https://github.com/CL0077/SpeechSEC/blob/gh-pages/docs/demo-main/demo-main/1_SpeechSEC_SpeechSynthesis/5.wav" type="audio/wav">
         Your browser does not support the audio element.
     </audio>
 </div>
