@@ -58,6 +58,72 @@ Here are some demos of our speech synthesis system. You can click the audio file
 
 ### SpeechSEC_SpeechEditing
 
+<table>
+  <tr>
+    <th>Original</th>
+    <th>Edit_Add</th>
+    <th>Edit_Remove</th>
+  </tr>
+  <tr>
+    <td>
+      <audio controls>
+        <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/2_SpeechSEC_SpeechEditing/1_Original.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/2_SpeechSEC_SpeechEditing/1_Edit_Add.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/2_SpeechSEC_SpeechEditing/1_Edit_Remove.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  <tr>
+    <td>
+      <audio controls>
+        <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/2_SpeechSEC_SpeechEditing/2_Original.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/2_SpeechSEC_SpeechEditing/2_Edit_Add.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/2_SpeechSEC_SpeechEditing/2_Edit_Remove.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <audio controls>
+        <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/2_SpeechSEC_SpeechEditing/3_Original.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/2_SpeechSEC_SpeechEditing/3_Edit_Add.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/2_SpeechSEC_SpeechEditing/3_Edit_Remove.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+</table>
 <br>
 
 ### SpeechSEC_SpeechContinuation
@@ -89,11 +155,11 @@ Here are some demos of our speech synthesis system. You can click the audio file
 <div align="center">
   <!-- 第二行 2 个音频 -->
   <audio controls>
-    <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/3_SpeechSEC_SpeechContinuation/2.wav" type="audio/wav">
+    <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/3_SpeechSEC_SpeechContinuation/3.wav" type="audio/wav">
     Your browser does not support the audio element.
   </audio>
   <audio controls>
-    <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/3_SpeechSEC_SpeechContinuation/2_ContinueResult.wav" type="audio/wav">
+    <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/3_SpeechSEC_SpeechContinuation/3_ContinueResult.wav" type="audio/wav">
     Your browser does not support the audio element.
   </audio>
 </div>
