@@ -1,4 +1,7 @@
-# SpeechSEC<br>A Unified Multi-Task Framework for Non-Autoregressive Speech Synthesis, Editing, and Continuation
+<h1 align="center">
+  SpeechSEC:<br>
+  A Unified Multi-Task Framework for Non-Autoregressive Speech Synthesis, Editing, and Continuation
+</h1>
 
 
 <div align="center">
@@ -72,6 +75,18 @@ Here are some demos of our speech synthesis system. You can click the audio file
   </audio>
   <audio controls>
     <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/3_SpeechSEC_SpeechContinuation/1_ContinueResult.wav" type="audio/wav">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
+<div align="center">
+  <!-- 第一行 2 个音频 -->
+  <audio controls>
+    <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/3_SpeechSEC_SpeechContinuation/2.wav" type="audio/wav">
+    Your browser does not support the audio element.
+  </audio>
+  <audio controls>
+    <source src="https://raw.githubusercontent.com/CL0077/SpeechSEC/gh-pages/docs/demo-main/demo-main/3_SpeechSEC_SpeechContinuation/2_ContinueResult.wav" type="audio/wav">
     Your browser does not support the audio element.
   </audio>
 </div>
